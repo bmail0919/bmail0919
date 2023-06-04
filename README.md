@@ -1,7 +1,7 @@
 <hr>
 <div>
     <h2>💁‍♂️ ABOUT ME</h2>
-    <p>🪪 백승우 / Baek Seungwoo</p>
+    <p>🪪 백승우 / Baek Seungwoo / B Mail</p>
     <p>🎂 2004.09.19</p>
     <p>🇰🇷 Korea</p>
 </div>
