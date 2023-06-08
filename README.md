@@ -10,7 +10,7 @@
 <div>
     <h2>📑 LANGUAGES</h2>
     <p>
-        <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=oracle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-5382A1?style=flat&logo=oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
     </p>
 </div>
